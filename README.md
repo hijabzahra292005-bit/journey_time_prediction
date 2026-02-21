@@ -1,4 +1,4 @@
-# Journey Time Prediction 🚆
+# Journey Time Prediction
 
 A **Streamlit app** that predicts train journey duration based on distance and number of stops.  
 Built with **Python, Pandas, Scikit-learn, and Streamlit**.  
